@@ -1,0 +1,7 @@
+{
+  "originals_equal_to_attachments": true,
+  "tests_passed": 5,
+  "baseline_epochs_completed": 30000,
+  "experiment_epochs_per_model": 5,
+  "baseline_best_epoch": 30000
+}

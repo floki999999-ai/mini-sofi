@@ -1,0 +1,60 @@
+{
+  "baseline": {
+    "parameters": 6465,
+    "best_epoch": 5,
+    "train": {
+      "mse": 0.23836191439105328,
+      "accuracy": 0.5755107872553222,
+      "precision": 0.5755107872553222,
+      "recall": 1.0,
+      "f1": 0.7305704180647502,
+      "balanced_accuracy": 0.5,
+      "confusion_matrix": [
+        [
+          0,
+          2971
+        ],
+        [
+          0,
+          4028
+        ]
+      ]
+    },
+    "validation": {
+      "mse": 0.23904276975594033,
+      "accuracy": 0.5753333333333334,
+      "precision": 0.5753333333333334,
+      "recall": 1.0,
+      "f1": 0.7304274227676681,
+      "balanced_accuracy": 0.5,
+      "confusion_matrix": [
+        [
+          0,
+          637
+        ],
+        [
+          0,
+          863
+        ]
+      ]
+    },
+    "test": {
+      "mse": 0.23996118783283485,
+      "accuracy": 0.5756162558294471,
+      "precision": 0.5756162558294471,
+      "recall": 1.0,
+      "f1": 0.7306553911205075,
+      "balanced_accuracy": 0.5,
+      "confusion_matrix": [
+        [
+          0,
+          637
+        ],
+        [
+          0,
+          864
+        ]
+      ]
+    }
+  }
+}

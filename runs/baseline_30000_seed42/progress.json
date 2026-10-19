@@ -1,0 +1,7 @@
+{
+  "status": "completed",
+  "epochs": 30000,
+  "models": [
+    "baseline"
+  ]
+}

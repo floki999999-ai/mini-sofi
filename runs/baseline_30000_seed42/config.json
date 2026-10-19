@@ -1,0 +1,29 @@
+{
+  "data": "C:\\Users\\alex\\Documents\\Codex\\2026-10-19\\referenced-chatgpt-conversation-this-is-an\\outputs\\mini_sofi_1_0\\originals\\mondo.csv",
+  "out": "runs/baseline_30000_seed42",
+  "mode": "baseline",
+  "allow_long_run": true,
+  "eval_every": 100,
+  "seed": 42,
+  "epochs": 30000,
+  "lr": 0.4,
+  "python": "3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.5.3",
+  "matplotlib": "3.11.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "source_sha256": "31b44c6dc5d0d0c3af1336cc09d13daa06d11756cdbe17a199a8a29648833efc",
+  "thread_environment": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "split_counts": {
+    "train": 6999,
+    "validation": 1500,
+    "test": 1501
+  },
+  "selection": "minimum validation MSE; test evaluated once after selection",
+  "loss": "MSE",
+  "threshold": 0.5,
+  "normalization": "none; same raw inputs as original"
+}
